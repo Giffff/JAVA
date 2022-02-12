@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class PermutationCombinationMain
+public class permutation_combination
 {
     public static int fact(int num){
         int fact=1, i;
